@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070126341910",
+    "firebase_url": "https://pakhealth-be7df.firebaseio.com",
+    "project_id": "pakhealth-be7df",
+    "storage_bucket": "pakhealth-be7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070126341910:android:85c064d9b20aafb5d5fa37",
+        "android_client_info": {
+          "package_name": "com.spur.io.pakhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070126341910-kgpbna1kr8rjgv47il49cpvok86lplmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjK4wdzf-goQ8Z8kqorJkdcJqWcOEzI8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070126341910-kgpbna1kr8rjgv47il49cpvok86lplmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

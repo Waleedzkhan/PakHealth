@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Switch
+            android:text="Share Usage Statistics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/Share_Data"/>
+        <Button
+            android:text="Report"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/BtnReport"
+            />
+        <Button
+            android:text="Account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/BtnAccount"/>
+    </LinearLayout>
+</FrameLayout>
